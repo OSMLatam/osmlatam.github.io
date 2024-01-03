@@ -3,8 +3,7 @@ Nosotros empezamos a calentar motores para todo lo que se viene este año asi qu
 
 Te invitamos a la **notathon** por Ecuador!
 
-Nos encontraremos en el canal de BigBlueButton [https://osmvideo.cloud68.co/user/and-hrh-m5a-trl
-](https://osmvideo.cloud68.co/user/and-hrh-m5a-trl) el sábado 6 de enero a las 9 am.
+Nos encontraremos en el canal de BigBlueButton [http://bit.ly/NTHUBLac](http://bit.ly/NTHUBLac) el sábado 6 de enero a las 9 am.
 
 ![Imagen invitación](img/WhatsApp Image 2024-01-03 at 3.40.40 PM.jpeg)
 
