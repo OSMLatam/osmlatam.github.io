@@ -1,6 +1,10 @@
 ¡Bienvenido al sitio de la comunidad latinoamericana de OpenStreetMap!
 
-Organizamos conferencias y actividades de mapeo en la región, consulte los eventos ya realizados:
+Organizamos conferencias y actividades de mapeo en la región.
+
+- [Notathon Ecuador](2024-01-06-NotathonEcuador.md)
+
+Lista de eventos pasados:
 
 - [2019 Paraguay](https://2019.osmlatam.org)
 - [2018 Buenos Aires, Argentina](https://2018.osmlatam.org)
