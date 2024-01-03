@@ -4,4 +4,6 @@ Nos encontraremos en el canal de BigBlueButton [https://osmvideo.cloud68.co/user
 
 ![Imagen invitación](img/photo_2024-01-03 15.14.26.jpeg)
 
-Esta es la lista de notas abiertas: https://resultmaps.neis-one.org/osm-notes-country?c=Ecuador
+Esta es la lista de notas abiertas en Ecuador: https://resultmaps.neis-one.org/osm-notes-country?c=Ecuador
+
+Recuerda que mediante la resolución de notas se aprende mucho de OpenStreetMap.
