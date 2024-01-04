@@ -1,3 +1,11 @@
+---
+layout:   post
+title:    "Notathon Ecuador 2024"
+subtitle:   "Cierre de notas pendientes"
+date:       2024-01-03 12:00:00
+author:     "Andrés Gómez Casanova"
+---
+
 Feliz 2024 a todos!
 Nosotros empezamos a calentar motores para todo lo que se viene este año asi que...
 
