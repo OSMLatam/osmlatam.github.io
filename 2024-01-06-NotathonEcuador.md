@@ -19,4 +19,4 @@ Esta es la lista de notas abiertas en Ecuador: [https://resultmaps.neis-one.org/
 
 Recuerda que mediante la resolución de notas se aprende mucho de OpenStreetMap.
 
-Nos vemos el sábado 6 de enero a las 9 am!!
+Nos vemos el sábado 6 de enero a las 9 am!!!
