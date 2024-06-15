@@ -2,10 +2,11 @@
 
 Organizamos conferencias y actividades de mapeo en la región.
 
-- [Notathon Ecuador](2024-01-06-NotathonEcuador.md)
+[2014 Belém, Brazil](https://2024.osmlatam.org)
 
 Lista de eventos pasados:
 
+- [Notathon Ecuador](2024-01-06-NotathonEcuador.md)
 - [2019 Paraguay](https://2019.osmlatam.org)
 - [2018 Buenos Aires, Argentina](https://2018.osmlatam.org)
 - [2017 Lima, Peru](https://2017.osmlatam.org)
