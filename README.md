@@ -2,7 +2,7 @@
 
 Organizamos conferencias y actividades de mapeo en la región.
 
-[2014 Belém, Brazil](https://2024.osmlatam.org)
+[2024 Belém, Brazil](https://2024.osmlatam.org)
 
 Lista de eventos pasados:
 
