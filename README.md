@@ -1,7 +1,11 @@
 ---
 layout: forward
-target: https://2024.osmlatam.org/
----
+target: [https://example.com](https://2024.osmlatam.org/)
+targetname: State of the Map 2024
+targettitle: OpenStreetMap conference en Belem
+time: 5
+message: Redirecting
+------
 
 ¡Bienvenido al sitio de la comunidad latinoamericana de OpenStreetMap!
 
