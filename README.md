@@ -1,3 +1,8 @@
+---
+layout: forward
+target: https://2024.osmlatam.org/
+---
+
 ¡Bienvenido al sitio de la comunidad latinoamericana de OpenStreetMap!
 
 Organizamos conferencias y actividades de mapeo en la región.
