@@ -1,6 +1,6 @@
 ---
 layout: forward
-target: [https://example.com](https://2024.osmlatam.org/)
+target: https://2024.osmlatam.org
 targetname: State of the Map 2024
 targettitle: OpenStreetMap conference en Belem
 time: 5
