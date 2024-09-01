@@ -1,0 +1,389 @@
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Andén'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Anden&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Barrios'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Barrios&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Calzada'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Calzada&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Cestas'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Cestas&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Ciclorruta'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Ciclorruta&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Cine'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Cine&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Colegios'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Colegios&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Construcción'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Construccion&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Cuerpo de Agua'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-CuerpoAgua&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Curvas de Nivel'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-CurvaNivel&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Localidades'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Localidades&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Museos'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Museos&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Notaría'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Notaría&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Ortofoto 2017'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Ortofoto2017&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Paraderos'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Paraderos&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Paraderos Libros Parque'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Paraderos-Libros-Parque&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Placa domiciliaria'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-PlacaDomiciliaria&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Plaza de Mercado'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-PlazaMercado&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Policía - Cuadrante'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Policía-cuadrante&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Policía - Estaciones'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Policía-estaciones&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Puentes'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Puentes&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Punto geodésico'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-PuntoGeodésico&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Separador'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Separador&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IDECA - Turístico'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IDECA_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IDECA-Turístico&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IGAC - Curvas de Nivel'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IGAC_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IGAC-CurvaNivel&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IGAC - Códigos postales'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IGAC_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IGAC-CódigosPostales&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IGAC - Departamentos'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IGAC_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IGAC-Departamentos&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IGAC - Municipios'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IGAC_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IGAC-Municipios&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IGAC - Nombres Administrativo'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IGAC_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IGAC-NombresAdministrativos&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IGAC - Nombres Geográficos'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IGAC_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IGAC-NombresGeograficos&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='IGAC - Ríos y quebradas'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_IGAC_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=IGAC-RiosQuebradas&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='JBB - Jardineria'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_JBB_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=JBB-Jardineria&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='JBB - Árbol patrimonial'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_JBB_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=JBB-ArbolesPatrimoniales&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='JBB - Arbolado_Urbano'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/Colombia_JBB_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=JBB-Arbolado_Urbano&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='OSM Countries'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/OSM_Notes_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=OSM_Countries&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='OSM Notes - closed lat'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/OSM_Notes_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=OSM_Closed-Notes&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='OSM Notes - open lat'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/OSM_Notes_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=OSM_Open-Notes&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='Buildings - Google Colombia'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/BuildingsFootprints_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=GoogleOpenBuildingsColombia&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
+    <map>
+      <tag key='projections' value='EPSG:4686,EPSG:4326,EPSG:3857'/>
+      <tag key='transparent' value='true'/>
+      <tag key='minimumTileExpire' value='3600'/>
+      <tag key='name' value='Buildings - Microsoft Colombia'/>
+      <tag key='type' value='wms'/>
+      <tag key='url' value='https://geoserver.osm.lat/geoserver/BuildingsFootprints_workspace/ows?FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;VERSION=1.3.0&amp;SERVICE=WMS&amp;REQUEST=GetMap&amp;LAYERS=MicrosoftBuildingFootprintsColombia&amp;STYLES=&amp;CRS={proj}&amp;WIDTH={width}&amp;HEIGHT={height}&amp;BBOX={bbox}'/>
+      <tag key='cookies' value=''/>
+      <tag key='customHttpHeaders' value='{}'/>
+    </map>
